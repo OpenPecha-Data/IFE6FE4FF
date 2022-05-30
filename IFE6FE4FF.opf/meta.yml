@@ -1,0 +1,302 @@
+id: IFE6FE4FF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:40:35.238420'
+last_modified: '2022-05-30T18:40:35.238426'
+parser: null
+source_metadata:
+  title: Dilgo Khyentse Rinpoche Series
+  language: bo
+  description: 'Texts by and about Kyabje Dilgo Khyentse Rinpoche, Tashi Paljor (dil
+    mgo mkhyen brtse bkra shis dpal ''byor, 1910-1991):'
+  volume:
+    fED2C:
+      title: Advice to Three-Year Retreatants
+      base_file: fED2C.txt
+      order: 1
+      parent: Advice
+    fD948:
+      title: Heart Advice in Four Lines
+      base_file: fD948.txt
+      order: 2
+      parent: Advice
+    f2197:
+      title: Letter of Advice to Jamyang Gyaltsen
+      base_file: f2197.txt
+      order: 3
+      parent: Advice
+    fA5BE:
+      title: A Prayer for the Spread of Kyabje Dilgo Khyentse Rinpoche’s Termas
+      base_file: fA5BE.txt
+      order: 4
+      parent: Aspiration Prayers
+    f9979:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      base_file: f9979.txt
+      order: 5
+      parent: Aspiration Prayers
+    fF8B0:
+      title: 'The Vidyādharas'' Words of Truth: An Aspiration Connected with the Stages
+        of the Path of the Three Roots, from the Heart Essence of the Vast Expanse'
+      base_file: fF8B0.txt
+      order: 6
+      parent: Aspiration Prayers
+    fDAE5:
+      title: 'Wisdom''s Melody: An Aspiration to Realize Madhyamaka, Mahāmudrā, and
+        Mahā Ati'
+      base_file: fDAE5.txt
+      order: 7
+      parent: Aspiration Prayers
+    fC7C7:
+      title: 'Wondrous Light of Lunar Nectar: The Biography of Chatral Kunga Palden,
+        a Yogin of the Supreme Vehicle'
+      base_file: fC7C7.txt
+      order: 8
+      parent: Biographies
+    f3B82:
+      title: Calling the Guru From Afar
+      base_file: f3B82.txt
+      order: 9
+      parent: Calling the Guru from Afar
+    f3022:
+      title: Calling the Guru from Afar
+      base_file: f3022.txt
+      order: 10
+      parent: Calling the Guru from Afar
+    f89AE:
+      title: 'Nectar Shower of Blessings: A Song of Yearning Devotion Recalling the
+        Everpresent Gurus'
+      base_file: f89AE.txt
+      order: 11
+      parent: Calling the Guru from Afar
+    f89D8:
+      title: 'Repository of Every Form of Dharma That Might Be Wished For: A Catalogue
+        to the Published Miscellaneous Writings of the Venerable Guru Jamyang Chökyi
+        Lodrö'
+      base_file: f89D8.txt
+      order: 12
+      parent: Catalogues
+    fF37C:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      base_file: fF37C.txt
+      order: 13
+      parent: Chöd
+    f9078:
+      title: 'The Sage who Dispels Mind’s Anguish: Advice from the Guru, the Gentle
+        Protector Mañjuśrī on the Means of Accomplishing the Yogas of Śamatha and
+        Vipaśyanā'
+      base_file: f9078.txt
+      order: 14
+      parent: Commentaries
+    f9698:
+      title: 'Shower of Indestructible Splendour: A Self-Initiation for the Guru Practice
+        of the Vidyādhara Assembly, from the Heart-Essence of the Vast Expanse'
+      base_file: f9698.txt
+      order: 15
+      parent: Empowerment Rites
+    fC5D9:
+      title: 'A Garland of Vajra Words: A Prayer to the Guru'
+      base_file: fC5D9.txt
+      order: 16
+      parent: Guru Rinpoche Prayers
+    f7CC7:
+      title: 'All Wishes Swiftly Fulfilled: A Prayer to the Mahāguru of Uḍḍiyāna in
+        Eight Chapters'
+      base_file: f7CC7.txt
+      order: 17
+      parent: Guru Rinpoche Prayers
+    fBC13:
+      title: Guru Yoga – A Rang Rig Ma Chö
+      base_file: fBC13.txt
+      order: 18
+      parent: Guru Yoga
+    fDB90:
+      title: 'Guru Yoga: The Complete Path of Sūtra And Tantra'
+      base_file: fDB90.txt
+      order: 19
+      parent: Guru Yoga
+    fB467:
+      title: 'The Quintessence of the Profound Path: A Concise Guide to the Stages
+        of Visualization for the Guru Yoga of the Seven-Line Supplication, A Shower
+        of Blessings'
+      base_file: fB467.txt
+      order: 20
+      parent: Guru Yoga
+    f2555:
+      title: 'The Sun of Ambrosial Wisdom: A Guru Yoga of Dharmarāja Sakya Paṇḍita'
+      base_file: f2555.txt
+      order: 21
+      parent: Guru Yoga
+    f4108:
+      title: A History of Dzongsar Monastery
+      base_file: f4108.txt
+      order: 22
+      parent: History
+    f5405:
+      title: 'Beautiful Clouds of Blessings: A Prayer to the Lineage Masters of the
+        Heart Essence of the Vast Expanse from the Great Perfection'
+      base_file: f5405.txt
+      order: 23
+      parent: Lineage Prayers
+    fBBCC:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      base_file: fBBCC.txt
+      order: 24
+      parent: Lineage Prayers
+    fCC07:
+      title: Supplication to the Lineage of the Heart Essence of the Vast Expanse
+      base_file: fCC07.txt
+      order: 25
+      parent: Lineage Prayers
+    f8AEB:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      base_file: f8AEB.txt
+      order: 26
+      parent: Lineage Prayers
+    fBE5E:
+      title: Ambrosia for the Mind
+      base_file: fBE5E.txt
+      order: 27
+      parent: Lojong
+    f8F47:
+      title: Prayer for the Long Life of Dzongsar Jamyang Khyentse Rinpoche
+      base_file: f8F47.txt
+      order: 28
+      parent: Long Life Prayers
+    f92C6:
+      title: Prayer for the Long Life of Dzongsar Jamyang Khyentse Rinpoche
+      base_file: f92C6.txt
+      order: 29
+      parent: Long Life Prayers
+    f0232:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      base_file: f0232.txt
+      order: 30
+      parent: Long Life Prayers
+    f6A53:
+      title: 'The Vajra Sitar of Immortality: A Prayer for the Long Life of the Fourth
+        Incarnation of Terchen Chokgyur Lingpa'
+      base_file: f6A53.txt
+      order: 31
+      parent: Long Life Prayers
+    fFE27:
+      title: 'True Words to Accomplish Immortality: A Longevity Prayer to the Tulku
+        of Jamyang Khyentse, Thupten Chökyi Gyatso'
+      base_file: fFE27.txt
+      order: 32
+      parent: Long Life Prayers
+    f04F4:
+      title: A Prayer to Dilgo Khyentse Rinpoche
+      base_file: f04F4.txt
+      order: 33
+      parent: Prayers
+    fC787:
+      title: A Prayer to Kyabje Dilgo Khyentse Rinpoche
+      base_file: fC787.txt
+      order: 34
+      parent: Prayers
+    fDE44:
+      title: Invocation of the Vidyādhara Gurus
+      base_file: fDE44.txt
+      order: 35
+      parent: Prayers
+    f806A:
+      title: 'Light of Compassion: A Prayer to the Wisdom Ḍākinīs'
+      base_file: f806A.txt
+      order: 36
+      parent: Prayers
+    fB484:
+      title: Prayer for the Fulfilment of Aspirations
+      base_file: fB484.txt
+      order: 37
+      parent: Prayers
+    fB833:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: fB833.txt
+      order: 38
+      parent: Prayers
+    f84E5:
+      title: Supplication to Milarepa
+      base_file: f84E5.txt
+      order: 39
+      parent: Prayers
+    f24CC:
+      title: 'The Lotus of Faith: A Supplication to the Successive Lives of Shechen
+        Rabjam'
+      base_file: f24CC.txt
+      order: 40
+      parent: Prayers
+    f948A:
+      title: 'The Potent Nectar of Accomplishment: A Prayer and Supplication to the
+        Vidyādhara Gurus of the Three Lineages'
+      base_file: f948A.txt
+      order: 41
+      parent: Prayers
+    fB486:
+      title: The Prayer to Swiftly Fulfil All Wishes
+      base_file: fB486.txt
+      order: 42
+      parent: Prayers
+    f5F77:
+      title: 'The Precious Jewel Essence: A Prayer of the Four Dharmas'
+      base_file: f5F77.txt
+      order: 43
+      parent: Prayers
+    fB226:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      base_file: fB226.txt
+      order: 44
+      parent: Prayers
+    f6DBD:
+      title: 'The Swift Bestowal of Blessings: A Prayer to the Glorious Protector
+        Guru'
+      base_file: f6DBD.txt
+      order: 45
+      parent: Prayers
+    fC358:
+      title: A Sādhana of Golden Mañjughoṣa
+      base_file: fC358.txt
+      order: 46
+      parent: Sādhanas
+    f9981:
+      title: A Sādhana of Tārā Sarasvatī
+      base_file: f9981.txt
+      order: 47
+      parent: Sādhanas
+    f255C:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: f255C.txt
+      order: 48
+      parent: Sādhanas
+    fFD16:
+      title: Daily Practice of Guru Rinpoche, Buddha of Medicine
+      base_file: fFD16.txt
+      order: 49
+      parent: Sādhanas
+    f0001:
+      title: 'The Refined Essence of Compassion: A Daily Sādhana for the Natural Liberation
+        of Suffering, the Secret Practice of the Great Compassionate One'
+      base_file: f0001.txt
+      order: 50
+      parent: Sādhanas
+    f7B00:
+      title: Lamenting Prayer to Jamyang Chökyi Lodrö
+      base_file: f7B00.txt
+      order: 51
+      parent: Swift Rebirth Prayers
+    f37F6:
+      title: 'Bestowing the Glory of Wisdom: A Gaṇacakra Feast for Nyingtik Saldrön'
+      base_file: f37F6.txt
+      order: 52
+      parent: Tsok Offering
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
